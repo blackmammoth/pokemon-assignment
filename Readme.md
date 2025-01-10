@@ -23,11 +23,9 @@ This is a simple ASP.NET Core Web API for managing Pokemon data using MongoDB.
 ```
 
 ### Build and Run
-1. Restore the project dependencies by running: `dotnet restore`
+1. Build the project by running: `dotnet build`
 
-2. Build the project by running: `dotnet build`
-
-3. Run the project by running: `dotnet run`
+2. Run the project by running: `dotnet run`
 
 ### API Endpoints
 - You can test out the API by going to `<url>/swagger`
